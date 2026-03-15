@@ -1,0 +1,10 @@
+/* Olympay brand overrides: cream + gold theme */
+
+body {
+  background-color: #fffbe9;
+}
+
+:root {
+  --primary-color: #d4af37;
+  --secondary-color: #fffbe9;
+}

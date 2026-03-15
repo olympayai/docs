@@ -1,0 +1,23 @@
+{
+  "name": "olympay-docs",
+  "version": "1.0.0",
+  "description": "Official documentation site for Olympay, a financial control platform for autonomous AI agents.",
+  "author": "Olympay Team",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "deploy": "docusaurus deploy",
+    "docs": "docusaurus docs"
+  },
+  "dependencies": {
+    "@docusaurus/core": "^3.0.0",
+    "@docusaurus/preset-classic": "^3.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
